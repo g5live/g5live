@@ -39,11 +39,41 @@ Planned certification progression
 Long-term objective
 **OSCP / Professional Offensive Security**
 
-## Projects
+## Featured Project
 
-This profile is being built alongside my technical development.
+### [Cybersecurity Labs](https://github.com/g5live/cybersecurity-labs)
 
-Projects and documentation will be added as they are completed, with an emphasis on demonstrating practical understanding rather than simply listing technologies.
+A developing practical portfolio documenting cybersecurity methodology and technical investigation, including:
+
+- Nmap reconnaissance methodology
+- Network enumeration fundamentals
+- Web security fundamentals
+- Structured troubleshooting and enumeration methodology
+- An ongoing Linux system-freeze investigation using log analysis, controlled testing and hypothesis-led troubleshooting
+
+The repository is designed to show how I approach technical problems and build practical understanding, rather than simply list tools or completed training.
+
+## Current Development
+
+**Cisco Networking Academy**  
+Introduction to Cybersecurity — Completed
+
+**TryHackMe**  
+Ongoing practical cybersecurity labs and learning
+
+**Boot.dev**  
+Completed training in Python, Linux and Git, alongside practical development projects
+
+## Offensive Security Pathway
+
+Current focus  
+**Cybersecurity fundamentals → Linux → Networking → Practical Security**
+
+Planned certification progression  
+**CompTIA Security+ → CompTIA PenTest+**
+
+Long-term objective  
+**OSCP / Professional Offensive Security**
 
 ---
 
