@@ -17,28 +17,6 @@ My current work combines structured cybersecurity training with daily Linux use,
 * Web security fundamentals
 * Structured troubleshooting and technical investigation
 
-## Current Development
-
-**Cisco Networking Academy**
-Introduction to Cybersecurity — Completed
-
-**TryHackMe**
-Ongoing practical cybersecurity labs and learning
-
-**Boot.dev**
-Completed training in Python, Linux and Git, alongside practical development projects
-
-## Offensive Security Pathway
-
-Current focus
-**Cybersecurity fundamentals → Linux → Networking → Practical Security**
-
-Planned certification progression
-**CompTIA Security+ → CompTIA PenTest+**
-
-Long-term objective
-**OSCP / Professional Offensive Security**
-
 ## Featured Project
 
 ### [Cybersecurity Labs](https://github.com/g5live/cybersecurity-labs)
