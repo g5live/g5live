@@ -47,4 +47,4 @@ Projects and documentation will be added as they are completed, with an emphasis
 
 ---
 
-*Building technical depth through practical work, documentation and continuous learning.
+*Building technical depth through practical work, documentation and continuous learning.*
