@@ -2,6 +2,10 @@
 
 ### Cybersecurity | Offensive Security Pathway
 
+<p align="right">
+  <img src="https://api.boot.dev/v1/users/public/f07e350c-1f05-4fff-a4b8-232432b87fc6/thumbnail" >
+</p>
+
 I'm developing practical cybersecurity capability with a long-term focus on **offensive security and penetration testing**.
 
 My current work combines structured certification study with hands-on security labs, daily Linux use, networking fundamentals and Python development. This GitHub documents that progression through projects, technical exercises, methodology and selected write-ups.
