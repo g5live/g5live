@@ -3,94 +3,68 @@
 ### Cybersecurity | Offensive Security Pathway
 
 <p align="right">
-  <img src="https://api.boot.dev/v1/users/public/f07e350c-1f05-4fff-a4b8-232432b87fc6/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/f07e350c-1f05-4fff-a4b8-232432b87fc6/thumbnail" alt="Boot.dev profile card">
 </p>
 
 I'm developing practical cybersecurity capability with a long-term focus on **offensive security and penetration testing**.
 
-My current work combines structured certification study with hands-on security labs, daily Linux use, networking fundamentals and Python development. This GitHub documents that progression through projects, technical exercises, methodology and selected write-ups.
+My pathway combines Security+ and networking foundations, daily Linux use, authorised hands-on labs and Python development. The projects below document that progression: understanding a concept, applying it in a controlled environment, interpreting the evidence and using what I learned to build something useful.
 
-## Current Focus
+## Learning Pathway
 
-- Linux systems and command-line proficiency
-- Networking fundamentals and CCNA study
-- CompTIA Security+ concepts
-- Network reconnaissance and enumeration
-- Python development for cybersecurity
-- Web security fundamentals
-- Linux and Windows privilege escalation
-- Structured troubleshooting and technical investigation
+```text
+Security and networking foundations
+                ↓
+Linux, web and authorised practical labs
+                ↓
+Python and OOP applied to security projects
+                ↓
+Deeper offensive-security methodology
+                ↓
+PEN-200 and OSCP preparation
+```
 
-## Featured Work
+My current emphasis is on building dependable foundations rather than rushing toward advanced tooling. Commands and scanner output are useful only when I can explain what they show, what they do not show and what should happen next.
 
-### Cybersecurity Labs
+## Featured Projects
 
-A developing practical portfolio documenting cybersecurity methodology, technical investigation and lessons learned.
+### [Security Command Lab](https://github.com/g5live/security-command-lab)
 
-Current areas include:
+A Flask-based training application designed to bridge the gap between guided programming study and practical security learning. It currently presents command-based questions across four offensive-security topics, with selectable difficulty and time limits.
 
-- Nmap reconnaissance methodology
-- Network enumeration fundamentals
-- Linux systems and investigation
-- Web security fundamentals
-- Troubleshooting and enumeration methodology
-- Practical security concepts from authorised training environments
+The first version contains 40 scenarios. Planned development includes a larger question set, multi-stage challenges and varied terminal, website and application-style interfaces.
 
-The repository is designed to demonstrate how I approach technical problems and build understanding rather than provide step-by-step solutions to training challenges.
+### [Recon Helper](https://github.com/g5live/recon-helper)
 
-### Recon Helper
+A Python CLI project that combines early reconnaissance checks into a readable workflow. It reinforces input handling, DNS, common TCP services, HTTP behaviour, security observations and evidence-led enumeration choices.
 
-A developing Python CLI reconnaissance project created to reinforce my understanding of networking, HTTP and basic reconnaissance methodology.
+> An open port is a lead, not a vulnerability. The purpose of the tool is to support the next question, not replace interpretation.
 
-Current functionality includes:
+### [Cybersecurity Labs](https://github.com/g5live/cybersecurity-labs)
 
-- Target and URL normalisation
-- DNS resolution
-- Common TCP port checks
-- HTTP/HTTPS response analysis
-- Redirect tracking
-- Response timing and size
-- Security-header inspection
-- `robots.txt` checks
-- Structured logging
-
-The project is being developed as both a Python learning exercise and a practical way to reinforce cybersecurity concepts.
+A curated practical portfolio covering Linux investigation, networking, reconnaissance, web security and reusable methodology. The repository records objectives, observations, interpretation and lessons learned without publishing flags or step-by-step solutions to active training challenges.
 
 ## Current Development
 
-**Networking**  
-Cisco networking study with **CCNA** as a long-term networking target.
+- **Security foundations** — CompTIA Security+ concepts and their practical context.
+- **Networking** — TCP/IP, addressing, routing, services and CCNA-aligned study.
+- **Practical security** — authorised TryHackMe and Hack The Box labs, with a focus on reconnaissance, enumeration and web-security fundamentals.
+- **Programming** — Python and object-oriented programming through Boot.dev and security-focused projects.
+- **Linux** — daily use, troubleshooting, permissions, processes, filesystems, logs and introductory host investigation.
+- **Methodology** — choosing tools from evidence, validating results and recording what changed the next decision.
 
-**Security Fundamentals**  
-CompTIA **Security+** objectives incorporated into my structured learning roadmap.
+## Certification Direction
 
-**Practical Security**  
-TryHackMe PenTest+ pathway, reconnaissance, enumeration, Linux investigation and privilege-escalation fundamentals.
+- **Near-term foundation:** CompTIA Security+
+- **Networking target:** Cisco CCNA
+- **Long-term offensive-security route:** practical lab development → PEN-200 → OSCP
 
-**Programming**  
-Python development through small cybersecurity-focused CLI projects.
+## Completed Foundations
 
-**Linux**  
-Daily Linux use alongside dedicated study of processes, filesystems, permissions, system hardening and security investigation.
+- **Cisco Networking Academy:** Introduction to Cybersecurity
+- **Boot.dev:** foundational Python, Linux and Git coursework; further Python and OOP development remains in progress
 
-## Certification & Learning Direction
-
-**Medium-term certification target**  
-CompTIA Security+
-
-**Networking target**  
-Cisco CCNA
-
-**Offensive-security development**  
-Practical security training → PEN-200 → OSCP
-
-## Previous Learning
-
-**Cisco Networking Academy**  
-Introduction to Cybersecurity — Completed
-
-**Boot.dev**  
-Completed foundational training in Python, Linux and Git, alongside practical development projects.
+All security work represented here is performed in systems I own or authorised training environments.
 
 ---
 
