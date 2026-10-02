@@ -1,3 +1,5 @@
+![G5LIVE — Build · Understand · Apply](assets/brand/g5live.svg)
+
 # Graham Davies
 
 ### Cybersecurity | Offensive Security Pathway
@@ -81,3 +83,7 @@ All security work represented here is performed in systems I own or authorised t
 ---
 
 *Building technical depth through practical work, structured learning and continuous reinforcement.*
+
+## Shared project identity
+
+The four applications use the G5LIVE brand: Build · Understand · Apply. Their individual release-readiness reviews distinguish implemented features from planned functionality and public-release preparation.
