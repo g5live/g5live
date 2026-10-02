@@ -28,17 +28,29 @@ My current emphasis is on building dependable foundations rather than rushing to
 
 ## Featured Projects
 
-### [Security Command Lab](https://github.com/g5live/security-command-lab)
+### [Cyber Skills Pathway](https://github.com/g5live/cyber-skills-pathway)
 
-A Flask-based training application designed to bridge the gap between guided programming study and practical security learning. It currently presents command-based questions across four offensive-security topics, with selectable difficulty and time limits.
+A personal Flask learning application connecting Linux, Python, networking and security. It now includes **30 starter concepts across nine topic pages**, a starting-point chooser and short placement check, five-stage learning cycles, and persistent local progress. Shared concepts contribute across dashboard tiers; Security+ and CCNA pages show provisional starter relevance rather than exam-readiness claims.
 
-The first version contains 40 scenarios. Planned development includes a larger question set, multi-stage challenges and varied terminal, website and application-style interfaces.
+**Quickfire Reinforcement** offers all nine topics, five learning levels and 5–60-minute sessions. Submitted answers are checked without executing commands. Later development includes fuller foundations and certification mappings, clearer layout/navigation, and more informative skills pages for every topic; specialist curricula and isolated live labs remain future work.
 
 ### [Recon Helper](https://github.com/g5live/recon-helper)
 
-A Python CLI project that combines early reconnaissance checks into a readable workflow. It reinforces input handling, DNS, common TCP services, HTTP behaviour, security observations and evidence-led enumeration choices.
+A Python CLI for authorised TCP reconnaissance with bounded IP/CIDR input, asynchronous and threaded scanning, structured results, text/table/JSON output and opt-in HTTP inspection. Its mocked tests cover scan decisions and web evidence without contacting live targets.
 
-> An open port is a lead, not a vulnerability. The purpose of the tool is to support the next question, not replace interpretation.
+Technology and service hints remain observations to corroborate. Planned work includes stronger protocol validation, TLS inspection, rate controls, partial-result preservation, exports and a separate UDP engine.
+
+### [Crypto Lab Tool](https://github.com/g5live/crypto-lab-tool)
+
+An offline encryption, decryption and hashing toolkit consolidated from three self-written training scripts. It supports textbook RSA with supplied factors, AES-CBC encryption/decryption, CBC IV-modification exercises, file hashing and expected-digest verification. Embedded room values and online message-guessing behaviour were removed.
+
+Next steps include authenticated encryption, standard key formats and clearer binary-file handling. The existing RSA/CBC primitives are educational; this is not arbitrary key recovery or a production encrypted-file format.
+
+### [Asteroids](https://github.com/g5live/asteroids)
+
+A Boot.dev Python/Pygame project extended into a **five-level survival campaign**, with scoring, multiple weapons, lives, shields, collectable pickups, effects and a persistent local top-10 leaderboard.
+
+Future ideas include additional settings, weapon-use limits, mobile controls/packaging and two-device multiplayer. Those capabilities are planned, not yet supported.
 
 ### [Cybersecurity Labs](https://github.com/g5live/cybersecurity-labs)
 
