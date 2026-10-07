@@ -30,6 +30,7 @@ My longer-term direction is stronger practical methodology followed by PEN-200/O
 | [Subnet Calculator](https://github.com/g5live/subnet-calculator) | Browser/terminal IPv4 learning tool, complete for now with no further updates planned |
 | [Asteroids](https://github.com/g5live/asteroids) | Boot.dev game extended into a five-level campaign with weapons, shields and a local leaderboard |
 | [Cybersecurity Labs](https://github.com/g5live/cybersecurity-labs) | Practical notes on Linux, networking, reconnaissance and web-security methodology |
+| [G5Labs — Build · Understand · Apply](https://github.com/g5live/cybersecurity-labs/tree/main/G5Labs) | My Windows and Linux exercise designs, with guided workbooks, walkthroughs and current test status |
 
 ## Foundations completed
 
