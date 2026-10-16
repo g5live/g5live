@@ -24,13 +24,17 @@ My longer-term direction is stronger practical methodology followed by PEN-200/O
 
 | Project | Current purpose |
 |---|---|
-| [Recon Helper](https://github.com/g5live/recon-helper) | TCP reconnaissance with target files, port presets, SSH/FTP banner clues, optional HTTP/TLS inspection and JSON/text export |
-| [Cyber Skills Pathway](https://github.com/g5live/cyber-skills-pathway) | A local learning app with nine topics, 32 starter concepts, saved progress and Quickfire Reinforcement |
-| [Crypto Lab Tool](https://github.com/g5live/crypto-lab-tool) | Offline RSA/AES-CBC exercises, IV modification and file hashing; authenticated file encryption remains planned |
-| [Subnet Calculator](https://github.com/g5live/subnet-calculator) | Browser/terminal IPv4 learning tool, complete for now with no further updates planned |
+| [Recon Helper](https://github.com/g5live/recon-helper) | TCP reconnaissance with paced checks, partial reports, plain-English explanations, TLS expiry and text/table/JSON exports |
+| [Cyber Skills Pathway](https://github.com/g5live/cyber-skills-pathway) | 175 lessons across ten pathways, relatable explanations, adaptive notebook presentation, individual progress and an optional AI tutor |
+| [Crypto Lab Tool](https://github.com/g5live/crypto-lab-tool) | Offline RSA/AES-CBC exercises, IV modification, file hashing and configurable XOR practice |
+| [Subnet Calculator](https://github.com/g5live/subnet-calculator) | Browser/terminal IPv4 learning tool with notebook styling and a worked equal-sized network splitter |
 | [Asteroids](https://github.com/g5live/asteroids) | Boot.dev game extended into a five-level campaign with weapons, shields and a local leaderboard |
-| [Cybersecurity Labs](https://github.com/g5live/cybersecurity-labs) | Practical notes on Linux, networking, reconnaissance and web-security methodology |
+| [Cybersecurity Labs](https://github.com/g5live/cybersecurity-labs) | Practical lab notes and five downloadable cheatsheets covering Linux, Python, Windows, reconnaissance and SQL injection |
 | [G5Labs — Build · Understand · Apply](https://github.com/g5live/cybersecurity-labs/tree/main/G5Labs) | My Windows and Linux exercise designs, with guided workbooks, walkthroughs and current test status |
+
+## Cheatsheets and field references
+
+The [Cybersecurity Labs cheatsheet library](https://github.com/g5live/cybersecurity-labs/tree/main/cheatsheets) brings together five PDF references: **Bash and Vim, Python, Windows, reconnaissance and enumeration, and SQL injection/SQLMap**. Use them beside a lab to find syntax, follow a method and interpret what you observe. Each can be previewed on GitHub or downloaded for offline use.
 
 ## Foundations completed
 
