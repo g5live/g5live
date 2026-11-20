@@ -1,6 +1,8 @@
-<img align="right" width="480" src="https://api.boot.dev/v1/users/public/f07e350c-1f05-4fff-a4b8-232432b87fc6/thumbnail" alt="Boot.dev profile card">
-
-![G5LIVE — Build · Understand · Apply](assets/brand/g5live.svg)
+<p>
+  <img src="assets/brand/g5live.svg" alt="G5LIVE — Build · Understand · Apply" width="38%">
+  <img align="right" src="https://api.boot.dev/v1/users/public/f07e350c-1f05-4fff-a4b8-232432b87fc6/thumbnail" alt="Boot.dev profile card" width="40%">
+</p>
+<br clear="all">
 
 # Graham Davies
 
