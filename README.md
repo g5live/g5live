@@ -26,11 +26,11 @@ My longer-term direction is stronger practical methodology followed by PEN-200/O
 |---|---|
 | [Recon Helper](https://github.com/g5live/recon-helper) | TCP and UDP checks, verified TLS and SMTP STARTTLS, plus offline scan comparison and retest summaries |
 | [Cyber Skills Pathway](https://github.com/g5live/cyber-skills-pathway) | Local learning app with 279 lessons, Security+ and CCNA objective maps, delayed recall and practical exercises |
-| [Crypto Lab Tool](https://github.com/g5live/crypto-lab-tool) | Offline RSA/AES-CBC exercises, IV modification, file hashing and configurable XOR practice |
 | [Subnet Calculator](https://github.com/g5live/subnet-calculator) | IPv4 and IPv6 subnetting in the browser, with 36 guided IPv4 scenarios and an IPv4 terminal mode |
-| [Asteroids](https://github.com/g5live/asteroids) | Boot.dev game extended into a five-level campaign with weapons, shields and a local leaderboard |
 | [Cybersecurity Labs](https://github.com/g5live/cybersecurity-labs) | Practical lab notes and five downloadable cheatsheets covering Linux, Python, Windows, reconnaissance and SQL injection |
+| [Crypto Lab Tool](https://github.com/g5live/crypto-lab-tool) | Offline RSA/AES-CBC exercises, IV modification, file hashing and configurable XOR practice |
 | [G5Labs — Build · Understand · Apply](https://github.com/g5live/cybersecurity-labs/tree/main/G5Labs) | My Windows and Linux exercise designs, with guided workbooks, walkthroughs and current test status |
+| [Asteroids](https://github.com/g5live/asteroids) | Boot.dev game extended into a five-level campaign with weapons, shields and a local leaderboard |
 
 ## Cheatsheets and field references
 
