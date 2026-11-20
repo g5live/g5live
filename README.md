@@ -1,12 +1,10 @@
+<img align="right" width="480" src="https://api.boot.dev/v1/users/public/f07e350c-1f05-4fff-a4b8-232432b87fc6/thumbnail" alt="Boot.dev profile card">
+
 ![G5LIVE — Build · Understand · Apply](assets/brand/g5live.svg)
 
 # Graham Davies
 
 ### Cybersecurity · Penetration Testing · Practical Python
-
-<p align="right">
-  <img src="https://api.boot.dev/v1/users/public/f07e350c-1f05-4fff-a4b8-232432b87fc6/thumbnail" alt="Boot.dev profile card">
-</p>
 
 I'm building practical cybersecurity skills with a longer-term focus on offensive security and penetration testing.
 
